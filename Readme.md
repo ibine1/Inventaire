@@ -21,23 +21,23 @@ Ce script a pour but de faire l'inventaire des applications installées sur le p
 
 Lancez votre cmd en mode admin 
 
-![Screenshot](0.png)
+![0](https://user-images.githubusercontent.com/52750872/61367275-8d890b00-a88b-11e9-9912-617ed32df633.PNG)
 
 Rendez-vous dans le répertoire du script inventaire.py via l'invite de commande. Puis tapez " python Inventaire.py", afin de lancer le script. 
 
-![Screenshot](1.png)
+![1](https://user-images.githubusercontent.com/52750872/61367276-8d890b00-a88b-11e9-9f85-f6bef16fecd8.PNG)
 
 Le script vous demande de renseigner le nom ou l'adresse IP de la machine.
 
-![Screenshot](2.png)
+![2](https://user-images.githubusercontent.com/52750872/61367270-8cf07480-a88b-11e9-9503-5789ec88b2fb.PNG)
 
 Une fois le nom renseigné, le script vérifie la disponibilité du poste. Si le poste répond au ping, le script vous indique que le poste est joignable, et il fait l'inventaire du poste. Le fichier inventaire du poste se crée dans le répertoire courant .
 
-![Screenshot](3.png)
+![3](https://user-images.githubusercontent.com/52750872/61367271-8d890b00-a88b-11e9-869d-066bcd120bad.PNG)
 
 Sinon le script vous demandera de vérifier la disponibilité du poste et le hostname ou IP.
 
-![Screenshot](4.png)
+![4](https://user-images.githubusercontent.com/52750872/61367273-8d890b00-a88b-11e9-9333-4192af7eb947.PNG)
 
 ## Authors ##
 
