@@ -6,8 +6,6 @@ import subprocess, sys
 
 print('Début du scipt ')
 
-# Declaration des variables
-ttes_appli = None
 # Donner le nom de la machine concerne et insérer la valeur dans hostname 
 
 Hostname = input('Quel est le nom ou @IP de la machine concerné par la demande ')
